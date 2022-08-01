@@ -11,7 +11,5 @@ public class Person {
 		this.id = id;
 		this.nom = nom;
 		this.ville = ville;
-	}
-	
-
+	}	
 }
